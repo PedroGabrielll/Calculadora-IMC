@@ -1,2 +1,2 @@
 # Calculadora-IMC
-Mostra o resultado do peso e avisa se está ou não acima do peso ideal ou fora dele.
+Calcula se está no peso ideal de acordo com seu peso e atura.

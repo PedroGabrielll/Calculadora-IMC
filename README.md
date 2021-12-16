@@ -1,2 +1,2 @@
 # Calculadora-IMC
-Calcula se está no peso ideal de acordo com seu peso e altura.
+## Calculadora de IMC (Índice de Massa Corporal) feita com html, css e JavaScript, projeto de estudo, ligando o JavaScript ao Html.
